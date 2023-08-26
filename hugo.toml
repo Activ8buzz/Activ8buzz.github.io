@@ -1,4 +1,4 @@
-baseURL = 'https://activ8buzz.github.io/'
+baseURL = "https://Activ8buzz.github.io/"
 languageCode = 'en-us'
 title = 'Activ8buzz.com'
 theme = "paper"
